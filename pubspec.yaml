@@ -1,0 +1,127 @@
+# name: aplikasi_informasi_kampus
+# description: "A new Flutter project."
+
+# publish_to: 'none' 
+
+# version: 1.0.0+1
+
+# environment:
+#   sdk: ^3.7.0
+
+# dependencies:
+#   flutter:
+#     sdk: flutter
+
+#   cupertino_icons: ^1.0.2
+  
+#   # Dependensi BARU yang ditambahkan
+#   sqflite: ^2.3.0         # Untuk database SQLite
+#   path: ^1.8.3            # Untuk path direktori database
+#   http: ^1.1.0            # Untuk memanggil API
+#   geolocator: ^10.1.0     # Untuk mendapatkan lokasi GPS
+#   url_launcher: ^6.2.1    # Untuk membuka URL (seperti Google Maps)
+
+# dev_dependencies:
+#   flutter_test:
+#     sdk: flutter
+
+#   flutter_lints: ^2.0.0
+#   flutter_launcher_icons: ^0.13.1   
+
+
+
+# flutter:
+
+#   uses-material-design: true
+
+#   # To add assets to your application, add an assets section, like this:
+#   assets:
+#     - assets/kampus1.jpg
+#     - assets/kampus2.jpg
+#     - assets/perpustakaan.jpg
+#     - assets/kelas.jpg
+#     - assets/logo.png
+#     - assets/fasilitas.jpg 
+#     - assets/jurusan.jpg 
+#     - assets/ti.jpg
+#     - assets/akuntansi.jpg
+#     - assets/administrasibisnis.jpg
+#     - assets/pariwisata.jpg
+#     - assets/tekniksipil.jpg
+#     - assets/serbaguna.jpg
+#     - assets/kolamrenang.jpg
+#     - assets/kantin.jpg
+#     - assets/parkir.jpg
+
+#   # An image asset can refer to one or more resolution-specific "variants", see
+#   # https://flutter.dev/to/resolution-aware-images
+
+#   # For details regarding adding assets from package dependencies, see
+#   # https://flutter.dev/to/asset-from-package
+
+#   # To add custom fonts to your application, add a fonts section here,
+#   # in this "flutter" section. Each entry in this list should have a
+#   # "family" key with the font family name, and a "fonts" key with a
+#   # list giving the asset and other descriptors for the font. For
+#   # example:
+#   # fonts:
+#   #   - family: Schyler
+#   #     fonts:
+#   #       - asset: fonts/Schyler-Regular.ttf
+#   #       - asset: fonts/Schyler-Italic.ttf
+#   #         style: italic
+#   #   - family: Trajan Pro
+#   #     fonts:
+#   #       - asset: fonts/TrajanPro.ttf
+#   #       - asset: fonts/TrajanPro_Bold.ttf
+#   #         weight: 700
+#   #
+#   # For details regarding fonts from package dependencies,
+#   # see https://flutter.dev/to/font-from-package
+# flutter_icons:
+#   android: true
+#   ios: true
+#   image_path: "assets/logo.png"
+
+
+
+
+name: aplikasi_informasi_kampus
+description: "Project Sederhana menampilkan informasi Kampus Politeknik Negeri Bali."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0' # Rentang yang lebih aman
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  http: ^1.1.0
+  geolocator: ^10.1.0
+  url_launcher: ^6.2.1
+
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+
+  flutter_staggered_animations: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/ 
+
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"
