@@ -1,7 +1,7 @@
 Aplikasi Informasi Kampus PNB
 ![alt text](assets/kampus1.jpg)
-<!-- Ganti dengan path screenshot utama aplikasi Anda jika ada -->
 Sebuah aplikasi mobile fungsional yang dibangun menggunakan Flutter untuk menyediakan informasi lengkap dan interaktif seputar Politeknik Negeri Bali (PNB). Proyek ini dikembangkan sebagai bagian dari Proyek Akhir Semester (UAS) untuk mendemonstrasikan penerapan konsep-konsep kunci dalam pengembangan aplikasi mobile.
+
 📋 Daftar Isi
 Fitur Utama
 Tangkapan Layar (Screenshots)
@@ -11,13 +11,13 @@ Struktur File
 Diagram Alur
 Instalasi dan Konfigurasi
 Kontributor
+
 ✨ Fitur Utama
 Aplikasi ini dirancang untuk menjadi sumber informasi terpusat bagi mahasiswa dan calon mahasiswa PNB, dengan fitur-fitur sebagai berikut:
 Beranda Dinamis: Tampilan beranda yang modern dengan SliverAppBar, menu akses cepat, dan widget cuaca real-time.
 Informasi Jurusan: Daftar program studi yang tersedia, disajikan dalam kartu visual yang menarik.
 Galeri Fasilitas: Tampilan fasilitas kampus dalam bentuk grid interaktif yang menampilkan detail saat diklik.
-Peta Kampus Interaktif (GPS):
-Menampilkan lokasi kampus di peta OpenStreetMap.
+Peta Kampus Interaktif (GPS): Menampilkan lokasi kampus di peta OpenStreetMap.
 Mendeteksi lokasi pengguna saat ini dan menampilkannya di peta.
 Tombol untuk membuka lokasi di Google Maps untuk navigasi.
 Berita dan Pengumuman (API):
