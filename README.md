@@ -1,10 +1,10 @@
-<h3>Aplikasi Informasi Kampus PNB</h3>
+<h3>Aplikasi Informasi Kampus PNB ✨</h3>
 
 ![Dashboard](assets/kampus1.jpg)
 
 Sebuah aplikasi mobile fungsional yang dibangun menggunakan Flutter untuk menyediakan informasi lengkap dan interaktif seputar Politeknik Negeri Bali (PNB). Proyek ini dikembangkan sebagai bagian dari Proyek Akhir Semester (UAS) untuk mendemonstrasikan penerapan konsep-konsep kunci dalam pengembangan aplikasi mobile.
 
-**✨ Fitur Utama**
+**✨ Fitur Utama** <br>
 Aplikasi ini dirancang untuk menjadi sumber informasi terpusat bagi mahasiswa dan calon mahasiswa PNB, dengan fitur-fitur sebagai berikut: <br>
 - **Beranda Dinamis:** Tampilan beranda yang modern dengan SliverAppBar, menu akses cepat, dan widget cuaca real-time.<br>
 - **Informasi Jurusan:** Daftar program studi yang tersedia, disajikan dalam kartu visual yang menarik.<br>
@@ -30,7 +30,7 @@ Data disimpan secara lokal di perangkat menggunakan database SQLite.
 | **Fasilitas** | **Berita** | **Riwayat Saran** |
 | <img src="assets/dokumentasi/fasilitas.jpg" alt="Halaman Fasilitas" width="250"> | <img src="assets/dokumentasi/apiberita.jpg" alt="Halaman Berita" width="250"> | <img src="assets/dokumentasi/riwayatsaran.jpg" alt="Riwayat Saran" width="250"> |
 
-**🛠️ Teknologi dan Dependensi**
+**🛠️ Teknologi dan Dependensi** <br>
 Proyek ini dibangun menggunakan **Flutter (versi 3.x) dan Dart.** 
  Berikut adalah daftar dependensi utama yang digunakan:
 - **State Management:** StatefulWidget & setState untuk state lokal.<br>
@@ -47,7 +47,8 @@ Proyek ini dibangun menggunakan **Flutter (versi 3.x) dan Dart.**
 **url_launcher:** Untuk membuka URL di browser atau aplikasi eksternal (seperti Google Maps).
 - **UI & Animasi:**
 **flutter_staggered_animations:** Untuk memberikan animasi yang elegan pada daftar dan grid. <br>
-**🏗️ Arsitektur dan Alur Kerja**
+
+**🏗️ Arsitektur dan Alur Kerja**<br>
 Aplikasi ini mengadopsi pendekatan pemisahan tanggung jawab (separation of concerns) dengan memisahkan UI, logika bisnis, dan model data.
 Struktur File
 ```
@@ -70,7 +71,7 @@ lib/
 <br>
 
 
-**🚀Instalasi dan Konfigurasi** 
+**🚀Instalasi dan Konfigurasi** <br>
 Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah berikut:
 **1. Prasyarat:**
 - Pastikan Anda telah menginstal Flutter SDK.
