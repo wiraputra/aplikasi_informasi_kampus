@@ -23,19 +23,12 @@ Data disimpan secara lokal di perangkat menggunakan database SQLite.
 - **Navigasi Modern:** Menggunakan Navigation Drawer yang dipersonalisasi untuk berpindah antar halaman dengan mudah.<br>
 
 **📸 Tangkapan Layar (Screenshots)**
-- **Beranda**
-![alt text](assets/dokumentasi/beranda.jpg)
-- **Halaman Jurusan**	
-![alt text](assets/dokumentasi/daftarjurusan.jpg)
-- **Peta Lokasi**
-![alt text](assets/dokumentasi/lokasi.jpg)
-- **Halaman Fasilitas**
-![alt text](assets/dokumentasi/fasilitas.jpg)
-- **Halaman Berita**
-![alt text](assets/dokumentasi/apiberita.jpg)	
-- **Riwayat Saran**<br>
-![alt text](assets/dokumentasi/riwayatsaran.jpg)
-<br>
+
+| Beranda | Jurusan | Peta Lokasi |
+| :---: | :---: | :---: |
+| <img src="assets/dokumentasi/beranda.jpg" alt="Beranda" width="250"> | <img src="assets/dokumentasi/daftarjurusan.jpg" alt="Halaman Jurusan" width="250"> | <img src="assets/dokumentasi/lokasi.jpg" alt="Peta Lokasi" width="250"> |
+| **Fasilitas** | **Berita** | **Riwayat Saran** |
+| <img src="assets/dokumentasi/fasilitas.jpg" alt="Halaman Fasilitas" width="250"> | <img src="assets/dokumentasi/apiberita.jpg" alt="Halaman Berita" width="250"> | <img src="assets/dokumentasi/riwayatsaran.jpg" alt="Riwayat Saran" width="250"> |
 
 **🛠️ Teknologi dan Dependensi**
 Proyek ini dibangun menggunakan **Flutter (versi 3.x) dan Dart.** 
