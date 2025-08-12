@@ -33,8 +33,9 @@ Data disimpan secara lokal di perangkat menggunakan database SQLite.
 ![alt text](assets/dokumentasi/fasilitas.jpg)
 - **Halaman Berita**
 ![alt text](assets/dokumentasi/apiberita.jpg)	
-- **Riwayat Saran**
+- **Riwayat Saran**<br>
 ![alt text](assets/dokumentasi/riwayatsaran.jpg)
+<br>
 
 **🛠️ Teknologi dan Dependensi**
 Proyek ini dibangun menggunakan **Flutter (versi 3.x) dan Dart.** 
