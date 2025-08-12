@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:aplikasi_informasi_kampus/app_drawer.dart'; // Pastikan import drawer
 import 'package:url_launcher/url_launcher.dart'; // Untuk membuka link berita
-import 'api_service.dart'; // Ganti nama class ApiService menjadi BeritaService
+import 'api_service.dart'; 
 import 'berita_model.dart';
 
 class PengumumanApiPage extends StatefulWidget {

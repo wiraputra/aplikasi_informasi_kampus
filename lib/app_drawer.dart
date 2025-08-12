@@ -140,7 +140,7 @@ class AppDrawer extends StatelessWidget {
       ),
       tileColor: isSelected ? Colors.blue.withOpacity(0.1) : null,
       
-      // --- INI BAGIAN YANG DIPERBAIKI ---
+      
       onTap: () {
         Navigator.pop(context); // Selalu tutup drawer terlebih dahulu
 
